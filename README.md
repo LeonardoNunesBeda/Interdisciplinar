@@ -8,15 +8,9 @@
   <li>Bug 01</li>
   <ul>
     <li>Formulário Menu:</li>
-      <ul>
-         <li>Erro no botão Cadastrar. (OK) </li>
-      </ul>
-  </ul>
-  <ul>
-    <li></li>
-  </ul>
-  <ul>
-    <li></li>
+     <ul>
+        <li>Erro no botão Cadastrar. (OK) </li>
+     </ul>
   </ul>
 </ul>
 
